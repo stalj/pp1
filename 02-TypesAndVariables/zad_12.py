@@ -1,5 +1,6 @@
-n1= input("Podaj liczę:")
+n1= int(input("Podaj liczę:"))
 
-print(int(n1))
+print(n1)
 
-print(int(n1)**2)
+print(n1**2)
+
