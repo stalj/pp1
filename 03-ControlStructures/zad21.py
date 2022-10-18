@@ -1,7 +1,6 @@
 university="UEK w Krakowie"
-zespacjami=0
+printowalnawersja=""
 
 for i in university:
-    zespacjami=i+" "
-
-print(zespacjami)
+    printowalnawersja=printowalnawersja+i+" "
+print(printowalnawersja)
