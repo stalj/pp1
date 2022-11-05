@@ -14,4 +14,5 @@ def f(a):
         y5=y1-y2*2
     if y5!=0:
         y4=y5//1
-    return f"to jest {x+y2+y4} monet"
+    return print(f"to jest {x+y2+y4} monet")
+

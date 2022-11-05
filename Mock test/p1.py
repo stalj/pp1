@@ -6,4 +6,4 @@ def f(card_number):
             y=y+z[x]
         else:
             y=y+"*"
-    return (y)
+    return print(y)

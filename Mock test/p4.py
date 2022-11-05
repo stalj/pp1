@@ -6,9 +6,9 @@ def f(number,even):
         for x in y:
             if int(x)%2==0:
                 x1+=int(x)
-        return x1
+        return print(x1)
     else:
         for x in y:
             if int(x)%2!=0:
                 x2+=int(x)
-        return x2
+        return print(x2)
