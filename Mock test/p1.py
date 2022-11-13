@@ -7,3 +7,4 @@ def f(card_number):
         else:
             y=y+"*"
     return print(y)
+
