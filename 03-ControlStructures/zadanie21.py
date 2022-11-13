@@ -1,5 +1,5 @@
-from re import S
-from unicodedata import name
+#from re import S
+#from unicodedata import name
 
 
 name = 'UEK Uniwersytet Ekonomiczny'

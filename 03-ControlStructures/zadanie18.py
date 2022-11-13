@@ -1,4 +1,4 @@
-cena = int(input('Enter the amount in PLN: '))
+cena = 23
 coin5 = cena//5
 coin2 = (cena - 5*coin5)//2
 coin1 = cena - 5*coin5 - 2*coin2

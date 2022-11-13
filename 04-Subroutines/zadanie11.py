@@ -8,5 +8,4 @@ def factorial(n):
     if n > 1:
         return n * factorial(n-1)
   
-x = 5
-print( f"{x}! = {factorial(x)}" )
+factorial(5)
