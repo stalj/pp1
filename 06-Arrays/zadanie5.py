@@ -1,4 +1,3 @@
-import array as arr
 import random 
 
 arr1 = [3,7,1,0,4]
@@ -40,6 +39,11 @@ print(f'l) {arr12}')
 arr13 = [random.randint(0,1) for i in range(20)]
 print(f'm) {arr13}')
 
-array_input = [ [False,False,False,False,False] ,[False,False,False,False,False]]
-print(array_input[0]) 
-print(array_input[1]) 
+arr14 = [ 
+[False,False,False,False,False],
+[False,False,False,False,False]
+]
+for i in arr14:
+    for j in i:
+        print(j, end =' ')
+    print()
