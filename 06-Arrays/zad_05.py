@@ -14,4 +14,4 @@ arr10=[0 for x in range(50)]
 arr_m=[[random.randint(0,1)] for x in range(20)]
 arr_n=[ [False for x in range(5)], [False for x in range(5)] ]
 
-print(arr_n)
+print(arr7)
