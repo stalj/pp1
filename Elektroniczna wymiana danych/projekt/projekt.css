@@ -12,6 +12,7 @@ body
 	margin-right:auto;
 }
 
+
 h3
 {
     font-size: 12px;
@@ -65,9 +66,11 @@ h3
 {
     float: left;
     background-color: #FFFFFF;
-    width: 740px;
-    height: 500px;
+    width: 710px;
+    height: 470px;
     margin-top: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
+    color: black;
+    padding: 15px;
 }
