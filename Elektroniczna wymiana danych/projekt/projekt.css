@@ -74,3 +74,62 @@ h3
     color: black;
     padding: 15px;
 }
+
+#opis2
+{
+    float:left;
+    background-color: #FFFFFF;
+    width: 710px;
+    height: 400px;
+    margin:10px;
+    color: black;
+    padding: 15px;
+}
+
+#zdjecia
+{
+    float: left;
+}
+
+#zdj2
+{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#zdj3
+{
+    margin-bottom: 5px;
+}
+
+#tabela1
+{
+    background-color:#404040;
+    color:#FFFFFF;
+    height: auto;
+    margin: 10px;
+    clear: both;
+    font-size: 14px;
+    padding: 10px;
+}
+
+td
+{
+    border: 1px solid #202020;
+}
+
+#tabela2
+{
+    background-color: #FFFFFF;
+    height: auto;
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#opis3
+{
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+}
