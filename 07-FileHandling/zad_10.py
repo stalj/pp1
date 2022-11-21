@@ -1,0 +1,5 @@
+f=open('name.txt','w')
+f.write("name:Wiktoria \n")
+f.write("surname:Sadlo \n")
+f.write("university:UEK \n")
+f.close()
