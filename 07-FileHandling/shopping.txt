@@ -1,0 +1,1 @@
+& "c:/Program Files (x86)/python/python.exe" c:/Users/s-013-23/Desktop/pp1/07-FileHandling/task12.pymaslo 
