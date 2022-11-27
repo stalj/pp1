@@ -1,7 +1,12 @@
 file=open('zad_15.txt','r',encoding='utf-8')
-y="\n"
-for z in file:
-    if y=="\n":
-        for x in range(5):
-            print(file.readline())
-        y=input("")
+
+x=0
+y=5
+
+for i in file:
+    print(i,end=" ")
+    x=x+1
+    if x==y:
+        y=y+5
+        if y!=35:
+            z=input("aby kontynułować anciśnij enter")
