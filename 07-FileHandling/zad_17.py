@@ -1,7 +1,4 @@
-f1=open('zad_15.txt','r',encoding='utf=8')
-f2=open('copyline.txt','w',encoding='utf-8')
+with open('countries.txt','r') as file1, open('copylines.txt','a') as file2:
+    for i in file1:
+        file2.write(i)    
 
-for line in f1:
-    f2.write(f1.readline() + "\n")
-
-f2.close()

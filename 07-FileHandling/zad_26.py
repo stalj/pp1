@@ -1,10 +1,10 @@
 import re
+with open('MeatAndFish.txt','r') as file:
 
-f1=open('zad_15.txt','r')
-f2=open('words.txt','w')
-a=re.split("\s",f1,10)
-
-for x in a:
-    if len(x)>=6:
-        f2.write(f"{x}\n")
-
+    zmienna = re.findall('\w+',file.read())
+        
+    x=0
+    for i in zmienna:
+        if len(zmienna[x])>=6:
+            print(zmienna[x])
+        x=x+1
