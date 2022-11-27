@@ -1,4 +1,6 @@
-with open('text.txt', 'r' , encoding='utf-8') as firstfile, open('copy.txt', 'a') as secondfile:
-    for line in firstfile:
-        secondfile.write(line)
-
+file = open('text.txt', 'r')
+a = file.read()
+file.close()
+file = open('copy.txt','w')
+b = file.write(a)
+file.close()
