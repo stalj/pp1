@@ -3,6 +3,7 @@ import json
 with open("data.json") as file:
     data = json.load(file)
 
-for k,v in data.items():
-    print(k,":",v)
+for dict in data:
+    for key,value in dict.items():
+        print(key,":",value)
 
