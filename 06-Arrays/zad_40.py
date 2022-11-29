@@ -1,20 +1,26 @@
-a=[[-38, 19], [5,40],[-7,11],[29,16]]
 
-def max(x):
-    r=int(x[0][0])
-    for m in x:
-        for n in m:
-            if n>=r:
-                r=n
-    return(r,a.index(m[r]))
+a= [[-38, 19],[5,40],[-7,11],[29,16]]
 
-def min(y):
-    p=int(y[0][0])
-    for i in y:
-        for j in i:
-            if j<=p:
-                p=j
-    return p
+x=0
+najmniejsze=[]
+for i in range(4):
+    najmniejsze.append(min(a[x]))
+    x=x+1
 
-print(max(a))
-print(min(a))
+y=0
+najwieksze=[]
+for i in range(4):
+    najwieksze.append(max(a[y]))
+    y=y+1    
+
+m=min(najmniejsze)
+w=max(najwieksze)
+j=0
+o=0
+q=1
+for i in a:
+    if m in i:
+         print(m,'row',j)
+    if w in i:
+        print(w,'row',j)
+    j=j+1
