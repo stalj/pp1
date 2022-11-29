@@ -1,0 +1,20 @@
+[
+   {
+      "name": "Norbert",
+      "height": 176,
+      "eye_color": "blue",
+      "tatu": null
+   },
+   {
+      "name": "Zuzanna",
+      "height": 154,
+      "eye_color": "blue",
+      "tatu": null
+   },
+   {
+      "name": "Bartek",
+      "height": 184,
+      "eye_color": "green",
+      "tatu": null
+   }
+]

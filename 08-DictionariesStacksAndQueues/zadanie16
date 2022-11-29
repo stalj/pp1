@@ -1,0 +1,9 @@
+import json
+with open('students16.json') as file:
+    data = json.load(file)
+
+data_by_user = {}
+for d in data['name']:
+    data_by_user[d["name"]] = d
+
+print(data_by_user)
