@@ -1,11 +1,11 @@
 def identity_matrix(n):
-    a=[[]]
-    for x in range(0,n):
-        for y in range(0,n):
-            if x==y:
-                a[x][y]=1
-            else:
-                a[x][y]=0
-    return a
+    arr = [[0 for i in range(n)] for j in range(n)]
+    for i in range(n):
+        arr[i][i]=1
+    return arr
 
-print(identity_matrix(3))
+arr = identity_matrix(3)
+
+for i in arr:
+    print(i)
+print()
