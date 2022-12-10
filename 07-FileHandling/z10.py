@@ -1,0 +1,7 @@
+file = open('data.txt','w')
+file.write("Antoni\nKowalik\nUniwersytet Ekonomiczny w Krakowie\nInformatyka Stosowana")
+file.close()
+file = open('data.txt', 'r')
+file_content = file.read()
+print( file_content )
+file.close()
