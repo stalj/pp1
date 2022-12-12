@@ -28,5 +28,5 @@ def f(age, course, average):
         else:
             continue
     return licznik
-print(f(6, "statistics", 4))
+print(f(21, "statistics", 4))
 
