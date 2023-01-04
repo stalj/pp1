@@ -1,0 +1,19 @@
+body
+{
+    background-image: url(tło.png);
+    color:#1f3847;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+h3
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
