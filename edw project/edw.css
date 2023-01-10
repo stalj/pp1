@@ -15,5 +15,89 @@ h3
 {
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size: 20px;
+    font-size: 30px;
 }
+
+#container
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+}
+
+.title
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #1f3847;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+.content1
+{
+    background-color: #1f3847;
+    padding: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 600px;
+
+}
+
+.content{
+    background-color: #FFFFFF;
+    padding: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+}
+#title
+{
+    clear: both;
+    height: 150px;
+    margin-top: 30px;
+
+}
+
+#gp
+{
+    margin-right: 5px;
+    background-color: #4aab57;
+    color: #FFFFFF;
+    float: left;
+    height: 120px;
+    width: 400px;
+    padding: 15px;
+}
+
+#nazwiska
+{
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 15px;
+    height: 120px;
+    width: 895px;
+    float: left;
+    
+}
+#demo{
+    height: 600px;
+}
+.chart{
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+    padding: 10px;
+
+}
+.card{
+    
+    width: 70%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 40px;
+
+  }

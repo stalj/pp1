@@ -2,10 +2,151 @@
 <html>
   <head>
     <title>Title</title>
+
     <link rel="stylesheet" type="text/css" href="edw.css">
+    
+    <meta charset="utf-8">
+    <meta name="viewport" 
+          content="width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no">
+            
+    <!-- Include Bootstrap for styling -->
+    <link rel="stylesheet"
+      href=
+    "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+      
+    <!-- Include the Bootstrap Table CSS
+    for the table -->
+    <link rel="stylesheet" 
+          href=
+    "https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <!----
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+   
+    <-->
+
   </head>
   <body>
-    <h1>Title</h1>
-    <h3>Julia Mieszaniec<br/>Wiktoria Sadło<br/>Vladyslav Pnievski</h3>
+    
+    <script src=
+      "https://code.jquery.com/jquery-3.3.1.min.js">
+    </script>
+
+    <script src=
+      "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js">
+    </script>
+    <script src=
+      "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    </script>
+    <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
+    </script>
+    <!-- Include the JavaScript file
+    for Bootstrap table -->
+    <script src=
+      "https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.js">
+    </script>
+    <script src="script.js"></script>
+   
+   
+  
+    <div id="container">
+      <div id="title">
+        <div id="gp">
+        <h1>Group project</h1>
+        </div>
+        <div id="nazwiska">
+        <h3>Julia Mieszaniec<br/>Wiktoria Sadło<br/>Vladyslav Pnievski</h3>
+        </div>
+      </div>
+      <div class="title">
+        <h1>Charts</h1>
+      </div>
+      <div class="content1">
+        
+        <div id="demo" class="carousel slide" data-ride="carousel">
+          <ul class="carousel-indicators">
+            <li data-target="#demo" data-slide-to="0" class="active" ></li>
+            <li data-target="#demo" data-slide-to="1"></li>
+          </ul>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="card">
+              <canvas class="chart" id="firstChart" style="width:100%;max-width:900px"></canvas>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="card">
+              <canvas class="chart" id="secondChart" style="width:100%;max-width:800px"></canvas>
+              </div>
+            </div>
+            
+            
+          </div>
+          <a class="carousel-control-prev" href="#demo" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+          </a>
+          <a class="carousel-control-next" href="#demo" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+          </a>
+        </div>
+        
+        <div  id="chartContainer" style="height: 370px; width: 100%;"></div>
+        <script src="https://canvasjs.com/assets/script/canvasjs.min.js"> </script>
+      </div>
+      <div class="title"><h1>API</h1></div>
+    
+      <div class="content"> 
+        <table class="table-striped border-success" >
+          <thead>
+            <tr>
+              <th data-field="first_name">
+                <span class="text-success">
+                  First name 
+                </span>
+              </th>
+              <th data-field="last_name">
+                <span class="text-success">
+                  Last name 
+                </span>
+              </th>
+              <th data-field="albumNumber">
+                <span class="text-success">
+                  Album number
+                </span>
+              </th>
+              <th data-field="email">
+                <span class="text-success">
+                  Email
+                </span>
+              </th>
+              <th data-field="gender">
+                <span class="text-success">
+                  Gender
+                </span>
+              </th>
+              <th data-field="age">
+                <span class="text-success">
+                  Age 
+                </span>
+              </th>
+              <th data-field="cityOfBirth">
+                <span class="text-success">
+                  City of Birth 
+                </span>
+              </th>
+            </tr>
+          </thead>
+        </table>
+      </div>
+    </div>
   </body>
 </html>

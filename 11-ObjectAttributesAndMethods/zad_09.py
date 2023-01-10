@@ -1,19 +1,29 @@
 import  random
 class Arrays():
-    array=[]
 
     @staticmethod
-    def fa(len)
-    for i in range(len):
-        array.append()
+    def fa(len,x):
+        array=[]
+        for i in range(len):
+            array.append(x)
+        return array
 
     @staticmethod
     def fb(lenght,x,y):
+        array=[]
         for z in range(lenght):
-            Arrays.array.append(random.randrange(x,y))
-        return Arrays.array
+            array.append(random.randrange(x,y))
+        return array
 
-a=Arrays.fb(3,6,9)
+    @staticmethod
+    def fc(array, value_from, value_to):
+        sum=0
+        for x in array:
+            if x>=value_from and x<=value_to:
+                sum+=1
+        return sum
+
+a=Arrays.fa(6,8)
 print(a)
 
     

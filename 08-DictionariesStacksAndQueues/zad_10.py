@@ -5,8 +5,8 @@ countries=[
     {"country":"Spain","population":9866542},
     {"country":"Korea","population":247900}
 ]
-x=0
-while x<len(countries):
+
+for x in range(len(countries)):
     for key, value  in countries[x].items():
         print(key,":",value)
-    x+=1
+    

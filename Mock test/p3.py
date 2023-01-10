@@ -16,3 +16,4 @@ def f(a):
         y4=y5//1
     return print(f"to jest {x+y2+y4} monet")
 
+print(f(8))
