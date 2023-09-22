@@ -1,0 +1,30 @@
+body {
+    background-color: yellow;
+  }
+  
+  h1 {
+    color: rgb(0,0,225);
+    text-align: center;
+  }
+  
+  h2 {
+    color: #663300;
+    font-size: 30px;
+  }
+
+  table, th, td {
+    border: 1px solid;
+    color:#f542a4;
+  }
+
+  img {
+    width: 150px;
+    height: 250px;
+  }
+
+  #container {
+    background-color: #ffffff;
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+  }

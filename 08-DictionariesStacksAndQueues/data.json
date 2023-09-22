@@ -1,0 +1,5180 @@
+[
+    {
+        "name": "Urbano",
+        "surname": "Rossander",
+        "gender": "Male",
+        "age": 25,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "urossander0@networkadvertising.org",
+                "urossander0@businessinsider.com"
+            ],
+            "phone": "876 895 602"
+        },
+        "languages": [
+            "English",
+            "German",
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 4,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        3,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        3,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Krispin",
+        "surname": "Bezants",
+        "gender": "Male",
+        "age": 19,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "680 229 085"
+        },
+        "languages": [
+            "French"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Applied Informatics",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        5,
+                        2,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        3,
+                        2,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tadeas",
+        "surname": "Bleacher",
+        "gender": "Male",
+        "age": 18,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "tbleacher2@amazon.de"
+            ],
+            "phone": "841 266 040"
+        },
+        "languages": [
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        4,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        4,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        4,
+                        3,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pincus",
+        "surname": "Haggis",
+        "gender": "Male",
+        "age": 22,
+        "country": "Germany",
+        "contact": {
+            "email": [
+                "phaggis3@ifeng.com",
+                "phaggis3@tumblr.com"
+            ],
+            "phone": "827 150 525"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 5,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        5,
+                        2,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Minnie",
+        "surname": "Mesant",
+        "gender": "Female",
+        "age": 24,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "mmesant4@clickbank.net",
+                "mmesant4@freewebs.com"
+            ],
+            "phone": "826 987 037"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 3,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        4,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Thurstan",
+        "surname": "Lindmark",
+        "gender": "Male",
+        "age": 23,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "tlindmark5@dailymotion.com"
+            ],
+            "phone": "516 624 948"
+        },
+        "languages": [
+            "German",
+            "French",
+            "English"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        4,
+                        3,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        5,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        4,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Merv",
+        "surname": "Verdey",
+        "gender": "Male",
+        "age": 22,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "837 576 346"
+        },
+        "languages": [
+            "Ukrainian",
+            "German",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Business Administration",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        4,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kinna",
+        "surname": "Pine",
+        "gender": "Female",
+        "age": 21,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "kpine7@illinois.edu"
+            ],
+            "phone": "858 237 509"
+        },
+        "languages": [
+            "German"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        4,
+                        2,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Aliza",
+        "surname": "Ramme",
+        "gender": "Female",
+        "age": 18,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "888 542 309"
+        },
+        "languages": [
+            "German",
+            "English",
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 4,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        2,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Prentice",
+        "surname": "Goodredge",
+        "gender": "Male",
+        "age": 23,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "pgoodredge9@narod.ru",
+                "pgoodredge9@edublogs.org"
+            ],
+            "phone": "807 658 976"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 1,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        4,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Orlan",
+        "surname": "Boulter",
+        "gender": "Male",
+        "age": 20,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "582 666 104"
+        },
+        "languages": [
+            "French",
+            "English",
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        4,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sydney",
+        "surname": "Andric",
+        "gender": "Female",
+        "age": 20,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "sandricb@bandcamp.com"
+            ],
+            "phone": "848 848 246"
+        },
+        "languages": [
+            "Ukrainian",
+            "French"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        2,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        4,
+                        4,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        3,
+                        5,
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Winnifred",
+        "surname": "Chung",
+        "gender": "Female",
+        "age": 25,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "888 434 346"
+        },
+        "languages": [
+            "French",
+            "German"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Finance",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        3,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        4,
+                        4,
+                        2,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Giorgio",
+        "surname": "Pioli",
+        "gender": "Male",
+        "age": 23,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "gpiolid@prweb.com"
+            ],
+            "phone": "631 513 208"
+        },
+        "languages": [
+            "Spanish",
+            "German",
+            "English"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        2,
+                        3,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Briant",
+        "surname": "Wroth",
+        "gender": "Male",
+        "age": 18,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "bwrothe@businesswire.com",
+                "bwrothe@trellian.com"
+            ],
+            "phone": "601 587 452"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 6,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        5,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        4,
+                        5,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        4,
+                        3,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        2,
+                        4,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Drucill",
+        "surname": "Whate",
+        "gender": "Female",
+        "age": 24,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [],
+            "phone": "833 279 433"
+        },
+        "languages": [
+            "French",
+            "German"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        4,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rogers",
+        "surname": "Cowx",
+        "gender": "Male",
+        "age": 18,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "rcowxg@miibeian.gov.cn"
+            ],
+            "phone": "643 210 798"
+        },
+        "languages": [
+            "Spanish",
+            "German",
+            "English"
+        ],
+        "studies": {
+            "semester": 4,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        4,
+                        4,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        2,
+                        4,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Larina",
+        "surname": "Manvell",
+        "gender": "Female",
+        "age": 21,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "lmanvellh@pagesperso-orange.fr"
+            ],
+            "phone": "833 911 642"
+        },
+        "languages": [
+            "German"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Applied Informatics",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        2,
+                        5,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        5,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Konstantine",
+        "surname": "Brownsill",
+        "gender": "Male",
+        "age": 24,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "kbrownsilli@archive.org"
+            ],
+            "phone": "819 316 364"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 1,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        2,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        4,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        5,
+                        2,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Flem",
+        "surname": "Beyne",
+        "gender": "Male",
+        "age": 24,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "fbeynej@tinypic.com",
+                "fbeynej@google.it"
+            ],
+            "phone": "599 179 066"
+        },
+        "languages": [
+            "German",
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        4,
+                        2,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Phelia",
+        "surname": "Basler",
+        "gender": "Female",
+        "age": 18,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "pbaslerk@jugem.jp"
+            ],
+            "phone": "814 204 281"
+        },
+        "languages": [
+            "German",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        2,
+                        2,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        4,
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        5,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Orion",
+        "surname": "Havers",
+        "gender": "Male",
+        "age": 24,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "ohaversl@myspace.com",
+                "ohaversl@uol.com.br"
+            ],
+            "phone": "651 374 892"
+        },
+        "languages": [
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Business Administration",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        3,
+                        2,
+                        2,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ekaterina",
+        "surname": "Pimlock",
+        "gender": "Female",
+        "age": 18,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "556 936 806"
+        },
+        "languages": [
+            "English",
+            "German",
+            "French"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Business Administration",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        5,
+                        4,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        4,
+                        4,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stearne",
+        "surname": "Huish",
+        "gender": "Male",
+        "age": 18,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [],
+            "phone": "824 440 877"
+        },
+        "languages": [
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Calli",
+        "surname": "Myhan",
+        "gender": "Female",
+        "age": 22,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "cmyhano@slate.com"
+            ],
+            "phone": "599 265 356"
+        },
+        "languages": [
+            "German",
+            "Ukrainian",
+            "English"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Accounting",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        4,
+                        3,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        4,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Blinnie",
+        "surname": "Goodisson",
+        "gender": "Female",
+        "age": 24,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "bgoodissonp@whitehouse.gov",
+                "bgoodissonp@pcworld.com"
+            ],
+            "phone": "841 630 125"
+        },
+        "languages": [
+            "Ukrainian",
+            "German"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Applied Informatics",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        2,
+                        2,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        4,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Gil",
+        "surname": "Lartice",
+        "gender": "Male",
+        "age": 24,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "glarticeq@purevolume.com",
+                "glarticeq@ucsd.edu"
+            ],
+            "phone": "516 138 796"
+        },
+        "languages": [
+            "Ukrainian",
+            "Spanish",
+            "German"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        2,
+                        3,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        4,
+                        2,
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sharona",
+        "surname": "Davidovicz",
+        "gender": "Female",
+        "age": 23,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "sdavidoviczr@infoseek.co.jp"
+            ],
+            "phone": "673 835 080"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 3,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        4,
+                        2,
+                        5,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Deerdre",
+        "surname": "Giacobilio",
+        "gender": "Female",
+        "age": 20,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "855 133 471"
+        },
+        "languages": [
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Accounting",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        4,
+                        5,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        3,
+                        5,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shawnee",
+        "surname": "Dale",
+        "gender": "Female",
+        "age": 23,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "sdalet@globo.com"
+            ],
+            "phone": "882 969 293"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 4,
+            "field": "Applied Informatics",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        3,
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        4,
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vivian",
+        "surname": "Oldknowe",
+        "gender": "Female",
+        "age": 21,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "628 290 633"
+        },
+        "languages": [
+            "Spanish",
+            "German"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Accounting",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        3,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        4,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        3,
+                        2,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        2,
+                        3,
+                        2,
+                        5,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Martelle",
+        "surname": "Brandli",
+        "gender": "Female",
+        "age": 23,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "mbrandliv@tiny.cc"
+            ],
+            "phone": "876 030 951"
+        },
+        "languages": [
+            "German"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3,
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kristan",
+        "surname": "Drummer",
+        "gender": "Female",
+        "age": 22,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "565 790 064"
+        },
+        "languages": [
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        4,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        3,
+                        5,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mignonne",
+        "surname": "Kaman",
+        "gender": "Female",
+        "age": 18,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "mkamanx@virginia.edu"
+            ],
+            "phone": "802 935 313"
+        },
+        "languages": [
+            "German",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 3,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        3,
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bastian",
+        "surname": "Slite",
+        "gender": "Male",
+        "age": 22,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "bslitey@com.com",
+                "bslitey@e-recht24.de"
+            ],
+            "phone": "631 655 237"
+        },
+        "languages": [
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        4,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        2,
+                        4,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Augustine",
+        "surname": "Oliffe",
+        "gender": "Female",
+        "age": 18,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "aoliffez@rambler.ru"
+            ],
+            "phone": "547 647 085"
+        },
+        "languages": [
+            "Ukrainian",
+            "French"
+        ],
+        "studies": {
+            "semester": 4,
+            "field": "Business Administration",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        2,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Goober",
+        "surname": "Pettersen",
+        "gender": "Male",
+        "age": 19,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "562 728 149"
+        },
+        "languages": [
+            "French",
+            "English"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        4,
+                        4,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rourke",
+        "surname": "Gethins",
+        "gender": "Male",
+        "age": 21,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "567 004 810"
+        },
+        "languages": [
+            "German"
+        ],
+        "studies": {
+            "semester": 3,
+            "field": "Law",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        5,
+                        3,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        3,
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Marybeth",
+        "surname": "Haime",
+        "gender": "Female",
+        "age": 24,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "633 739 651"
+        },
+        "languages": [
+            "French",
+            "German",
+            "English"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        2,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        3,
+                        3,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tann",
+        "surname": "Stormes",
+        "gender": "Male",
+        "age": 24,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "891 147 435"
+        },
+        "languages": [
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        3,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rasla",
+        "surname": "Trangmar",
+        "gender": "Female",
+        "age": 23,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "rtrangmar14@myspace.com",
+                "rtrangmar14@merriam-webster.com"
+            ],
+            "phone": "847 973 026"
+        },
+        "languages": [
+            "German",
+            "English"
+        ],
+        "studies": {
+            "semester": 4,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        2,
+                        5,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ronny",
+        "surname": "Hess",
+        "gender": "Male",
+        "age": 21,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "rhess15@google.com.hk",
+                "rhess15@ucoz.com"
+            ],
+            "phone": "664 837 079"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 3,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        4,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        4,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sonni",
+        "surname": "Heel",
+        "gender": "Female",
+        "age": 20,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "sheel16@google.nl",
+                "sheel16@blogspot.com"
+            ],
+            "phone": "837 590 606"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 4,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        4,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        5,
+                        4,
+                        5,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Morie",
+        "surname": "Hancox",
+        "gender": "Male",
+        "age": 25,
+        "country": "Germany",
+        "contact": {
+            "email": [],
+            "phone": "586 803 158"
+        },
+        "languages": [
+            "English",
+            "German",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 3,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        4,
+                        3,
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dniren",
+        "surname": "Shepperd",
+        "gender": "Female",
+        "age": 20,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "815 180 384"
+        },
+        "languages": [
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Finance",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        5,
+                        5,
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        2,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Benn",
+        "surname": "Kingswell",
+        "gender": "Male",
+        "age": 19,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [],
+            "phone": "688 938 455"
+        },
+        "languages": [
+            "Ukrainian",
+            "French"
+        ],
+        "studies": {
+            "semester": 3,
+            "field": "Applied Informatics",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        3,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jameson",
+        "surname": "Verbeke",
+        "gender": "Male",
+        "age": 19,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "jverbeke1a@blogger.com",
+                "jverbeke1a@wufoo.com"
+            ],
+            "phone": "539 915 370"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Becka",
+        "surname": "Janoch",
+        "gender": "Female",
+        "age": 18,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "bjanoch1b@twitpic.com"
+            ],
+            "phone": "557 509 243"
+        },
+        "languages": [
+            "Spanish",
+            "German"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        2,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        5,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        2,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jerome",
+        "surname": "Rogger",
+        "gender": "Male",
+        "age": 20,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "668 349 675"
+        },
+        "languages": [
+            "Ukrainian",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Accounting",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Arnold",
+        "surname": "Woolaston",
+        "gender": "Male",
+        "age": 23,
+        "country": "Lithuania",
+        "contact": {
+            "email": [],
+            "phone": "551 469 915"
+        },
+        "languages": [
+            "German",
+            "Ukrainian",
+            "French"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Law",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        3,
+                        5,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Leila",
+        "surname": "McCullagh",
+        "gender": "Female",
+        "age": 18,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "lmccullagh1e@biglobe.ne.jp",
+                "lmccullagh1e@moonfruit.com"
+            ],
+            "phone": "846 243 465"
+        },
+        "languages": [
+            "English",
+            "German"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Accounting",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        5,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        3,
+                        5,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Richard",
+        "surname": "Gusney",
+        "gender": "Male",
+        "age": 19,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "679 205 513"
+        },
+        "languages": [
+            "Spanish",
+            "German"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Accounting",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        4,
+                        5,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        5,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Georgeta",
+        "surname": "Jeffreys",
+        "gender": "Female",
+        "age": 25,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "860 437 516"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 5,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3,
+                        4,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        5,
+                        3,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        2,
+                        2,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vidovik",
+        "surname": "Scipsey",
+        "gender": "Male",
+        "age": 20,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "vscipsey1h@mit.edu",
+                "vscipsey1h@wikispaces.com"
+            ],
+            "phone": "861 971 273"
+        },
+        "languages": [
+            "French",
+            "English"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Business Administration",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Retha",
+        "surname": "Harries",
+        "gender": "Female",
+        "age": 18,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "rharries1i@bluehost.com"
+            ],
+            "phone": "582 319 601"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 1,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3,
+                        5,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Quinn",
+        "surname": "Watt",
+        "gender": "Male",
+        "age": 20,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "648 831 641"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 4,
+            "field": "Finance",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        3,
+                        3,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        5,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tally",
+        "surname": "Paye",
+        "gender": "Male",
+        "age": 19,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "tpaye1k@de.vu"
+            ],
+            "phone": "697 217 179"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 2,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        4,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        4,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Melly",
+        "surname": "Grigore",
+        "gender": "Female",
+        "age": 19,
+        "country": "Lithuania",
+        "contact": {
+            "email": [
+                "mgrigore1l@t-online.de",
+                "mgrigore1l@google.com.br"
+            ],
+            "phone": "857 330 778"
+        },
+        "languages": [
+            "French"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Accounting",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        3,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Adah",
+        "surname": "Elliss",
+        "gender": "Female",
+        "age": 23,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "aelliss1m@bravesites.com"
+            ],
+            "phone": "850 027 214"
+        },
+        "languages": [
+            "German",
+            "French"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patience",
+        "surname": "Lavin",
+        "gender": "Female",
+        "age": 24,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "plavin1n@so-net.ne.jp",
+                "plavin1n@stumbleupon.com"
+            ],
+            "phone": "868 002 422"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 3,
+            "field": "Finance",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        2,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jojo",
+        "surname": "Roth",
+        "gender": "Female",
+        "age": 24,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "jroth1o@technorati.com"
+            ],
+            "phone": "634 344 288"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 6,
+            "field": "Finance",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        3,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        5,
+                        4,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        2,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Emmy",
+        "surname": "Cabrera",
+        "gender": "Male",
+        "age": 19,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "810 859 509"
+        },
+        "languages": [
+            "English"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        2,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        5,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        3,
+                        4,
+                        5,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Hamnet",
+        "surname": "Hawksby",
+        "gender": "Male",
+        "age": 24,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [],
+            "phone": "864 316 144"
+        },
+        "languages": [
+            "Spanish",
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        3,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        2,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Editha",
+        "surname": "Darco",
+        "gender": "Female",
+        "age": 20,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "edarco1r@indiegogo.com"
+            ],
+            "phone": "606 925 788"
+        },
+        "languages": [
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        5,
+                        3,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        3,
+                        2,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kenn",
+        "surname": "Ellerbeck",
+        "gender": "Male",
+        "age": 20,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "kellerbeck1s@java.com",
+                "kellerbeck1s@berkeley.edu"
+            ],
+            "phone": "813 282 186"
+        },
+        "languages": [
+            "French",
+            "English"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Accounting",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        3,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Elmira",
+        "surname": "Balcombe",
+        "gender": "Female",
+        "age": 19,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "ebalcombe1t@cafepress.com",
+                "ebalcombe1t@geocities.com"
+            ],
+            "phone": "804 906 409"
+        },
+        "languages": [
+            "English"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Accounting",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        3,
+                        2,
+                        4,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pearce",
+        "surname": "Pedler",
+        "gender": "Male",
+        "age": 22,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "ppedler1u@storify.com",
+                "ppedler1u@go.com"
+            ],
+            "phone": "840 927 365"
+        },
+        "languages": [
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 3,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        4,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        4,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Myrtle",
+        "surname": "Rielly",
+        "gender": "Female",
+        "age": 23,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "mrielly1v@sciencedaily.com"
+            ],
+            "phone": "590 853 798"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 4,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        4,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        4,
+                        5,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        4,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        5,
+                        5,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Heall",
+        "surname": "D'eath",
+        "gender": "Male",
+        "age": 20,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [],
+            "phone": "620 892 113"
+        },
+        "languages": [
+            "Spanish",
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Law",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        3,
+                        2,
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        2,
+                        5,
+                        2,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sibylle",
+        "surname": "Ambroise",
+        "gender": "Female",
+        "age": 23,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "sambroise1x@xrea.com",
+                "sambroise1x@mtv.com"
+            ],
+            "phone": "866 492 633"
+        },
+        "languages": [
+            "Spanish",
+            "French",
+            "German"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        3,
+                        3,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        5,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        3,
+                        5,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        2,
+                        3,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        2,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Geoffry",
+        "surname": "Gosson",
+        "gender": "Male",
+        "age": 21,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "ggosson1y@upenn.edu",
+                "ggosson1y@github.io"
+            ],
+            "phone": "806 503 668"
+        },
+        "languages": [
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        4,
+                        4,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vilma",
+        "surname": "Mussotti",
+        "gender": "Female",
+        "age": 25,
+        "country": "Poland",
+        "contact": {
+            "email": [],
+            "phone": "890 292 299"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 2,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        3,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dorrie",
+        "surname": "Keneleyside",
+        "gender": "Female",
+        "age": 18,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "dkeneleyside20@admin.ch",
+                "dkeneleyside20@patch.com"
+            ],
+            "phone": "829 788 435"
+        },
+        "languages": [
+            "English",
+            "French",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 4,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        5,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        3,
+                        2,
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sibyl",
+        "surname": "Hebblewhite",
+        "gender": "Female",
+        "age": 23,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "602 903 554"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 3,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        5,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        3,
+                        2,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Babette",
+        "surname": "Woolager",
+        "gender": "Female",
+        "age": 22,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "bwoolager22@macromedia.com",
+                "bwoolager22@loc.gov"
+            ],
+            "phone": "870 354 576"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 4,
+            "field": "Business Administration",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        5,
+                        2,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Portie",
+        "surname": "Oscroft",
+        "gender": "Male",
+        "age": 23,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "poscroft23@homestead.com"
+            ],
+            "phone": "846 821 169"
+        },
+        "languages": [
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        5,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        5,
+                        2,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Leroi",
+        "surname": "O' Gara",
+        "gender": "Male",
+        "age": 20,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "logara24@bravesites.com"
+            ],
+            "phone": "528 663 537"
+        },
+        "languages": [
+            "Spanish",
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        4,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Orville",
+        "surname": "Thirsk",
+        "gender": "Male",
+        "age": 19,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "othirsk25@mtv.com",
+                "othirsk25@ucoz.ru"
+            ],
+            "phone": "884 800 192"
+        },
+        "languages": [
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Law",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        3,
+                        5,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        4,
+                        5,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        3,
+                        5,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Adrienne",
+        "surname": "Feragh",
+        "gender": "Female",
+        "age": 24,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "675 956 758"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 6,
+            "field": "Law",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        4,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        5,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        3,
+                        4,
+                        2,
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        3,
+                        5,
+                        4,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Felita",
+        "surname": "Lung",
+        "gender": "Female",
+        "age": 22,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "flung27@marriott.com"
+            ],
+            "phone": "613 092 214"
+        },
+        "languages": [
+            "Ukrainian",
+            "English",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 3,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        2,
+                        3,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Megan",
+        "surname": "Filipson",
+        "gender": "Female",
+        "age": 18,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "mfilipson28@nba.com"
+            ],
+            "phone": "876 003 376"
+        },
+        "languages": [
+            "German",
+            "English"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        2,
+                        5,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        3,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Montgomery",
+        "surname": "Jowsey",
+        "gender": "Male",
+        "age": 19,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "mjowsey29@symantec.com",
+                "mjowsey29@columbia.edu"
+            ],
+            "phone": "808 174 614"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 6,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        4,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rolph",
+        "surname": "Earl",
+        "gender": "Male",
+        "age": 24,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "rearl2a@comsenz.com",
+                "rearl2a@live.com"
+            ],
+            "phone": "617 341 741"
+        },
+        "languages": [
+            "French",
+            "Ukrainian",
+            "Spanish"
+        ],
+        "studies": {
+            "semester": 4,
+            "field": "Applied Informatics",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        2,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        2,
+                        2,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        4,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        5,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Torry",
+        "surname": "Charer",
+        "gender": "Male",
+        "age": 21,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "tcharer2b@dedecms.com",
+                "tcharer2b@technorati.com"
+            ],
+            "phone": "523 194 272"
+        },
+        "languages": [
+            "Spanish",
+            "German"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Brendon",
+        "surname": "Went",
+        "gender": "Male",
+        "age": 19,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "609 128 833"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 3,
+            "field": "Law",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        3,
+                        5,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        4,
+                        2,
+                        4,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Orella",
+        "surname": "MacKomb",
+        "gender": "Female",
+        "age": 18,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "804 578 059"
+        },
+        "languages": [
+            "Spanish",
+            "English",
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        3,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Granville",
+        "surname": "Hedin",
+        "gender": "Male",
+        "age": 23,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "ghedin2e@state.gov",
+                "ghedin2e@squarespace.com"
+            ],
+            "phone": "517 441 321"
+        },
+        "languages": [
+            "Spanish",
+            "French",
+            "English"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        3,
+                        3,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        5,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        5,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ikey",
+        "surname": "Shoppee",
+        "gender": "Male",
+        "age": 23,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "ishoppee2f@utexas.edu"
+            ],
+            "phone": "575 597 320"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 1,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        5,
+                        2,
+                        2,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Orbadiah",
+        "surname": "Drewry",
+        "gender": "Male",
+        "age": 23,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [],
+            "phone": "590 999 122"
+        },
+        "languages": [
+            "German"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Finance",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        4,
+                        5,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        2,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        4,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dayle",
+        "surname": "Dennington",
+        "gender": "Female",
+        "age": 21,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "ddennington2h@gravatar.com",
+                "ddennington2h@arizona.edu"
+            ],
+            "phone": "662 846 544"
+        },
+        "languages": [
+            "English"
+        ],
+        "studies": {
+            "semester": 3,
+            "field": "Finance",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        5,
+                        2,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Angelo",
+        "surname": "McShirrie",
+        "gender": "Male",
+        "age": 18,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "amcshirrie2i@hud.gov"
+            ],
+            "phone": "828 113 310"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 3,
+            "field": "Law",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        5,
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        5,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rance",
+        "surname": "Pecey",
+        "gender": "Male",
+        "age": 19,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "rpecey2j@hexun.com",
+                "rpecey2j@free.fr"
+            ],
+            "phone": "502 395 875"
+        },
+        "languages": [
+            "German"
+        ],
+        "studies": {
+            "semester": 3,
+            "field": "Finance",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        2,
+                        4,
+                        2,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        2,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        5,
+                        4,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        4,
+                        4,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dru",
+        "surname": "Taplow",
+        "gender": "Female",
+        "age": 21,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "dtaplow2k@oakley.com",
+                "dtaplow2k@accuweather.com"
+            ],
+            "phone": "543 476 939"
+        },
+        "languages": [
+            "German"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        3,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cassius",
+        "surname": "de Chastelain",
+        "gender": "Male",
+        "age": 20,
+        "country": "Lithuania",
+        "contact": {
+            "email": [
+                "cdechastelain2l@squidoo.com",
+                "cdechastelain2l@ovh.net"
+            ],
+            "phone": "563 838 623"
+        },
+        "languages": [
+            "French"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        2,
+                        5,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        4,
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        5,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Isiahi",
+        "surname": "Sterley",
+        "gender": "Male",
+        "age": 23,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [
+                "isterley2m@deliciousdays.com"
+            ],
+            "phone": "507 736 439"
+        },
+        "languages": [],
+        "studies": {
+            "semester": 4,
+            "field": "Finance",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        2,
+                        5,
+                        3,
+                        4,
+                        3
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Glenn",
+        "surname": "Eastham",
+        "gender": "Male",
+        "age": 19,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "geastham2n@wp.com",
+                "geastham2n@chicagotribune.com"
+            ],
+            "phone": "638 741 471"
+        },
+        "languages": [
+            "French"
+        ],
+        "studies": {
+            "semester": 3,
+            "field": "Applied Informatics",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        5,
+                        4,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        5,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        3,
+                        3,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "name": "english",
+                    "grades": [
+                        2,
+                        3,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jeanine",
+        "surname": "Vanyashin",
+        "gender": "Female",
+        "age": 23,
+        "country": "Poland",
+        "contact": {
+            "email": [
+                "jvanyashin2o@rakuten.co.jp",
+                "jvanyashin2o@va.gov"
+            ],
+            "phone": "877 554 591"
+        },
+        "languages": [
+            "Ukrainian"
+        ],
+        "studies": {
+            "semester": 2,
+            "field": "Accounting",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        5,
+                        5,
+                        5,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        4,
+                        2,
+                        5,
+                        2,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vassily",
+        "surname": "Sloley",
+        "gender": "Male",
+        "age": 23,
+        "country": "Ukraine",
+        "contact": {
+            "email": [],
+            "phone": "859 259 707"
+        },
+        "languages": [
+            "French",
+            "Ukrainian",
+            "English"
+        ],
+        "studies": {
+            "semester": 5,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        5,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        2
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ingar",
+        "surname": "Jagiello",
+        "gender": "Male",
+        "age": 24,
+        "country": "Czech Republic",
+        "contact": {
+            "email": [],
+            "phone": "501 533 408"
+        },
+        "languages": [
+            "English",
+            "Spanish",
+            "German"
+        ],
+        "studies": {
+            "semester": 6,
+            "field": "Finance",
+            "fulltime": "yes",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        3,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nels",
+        "surname": "De Maria",
+        "gender": "Male",
+        "age": 23,
+        "country": "Ukraine",
+        "contact": {
+            "email": [
+                "ndemaria2r@oakley.com",
+                "ndemaria2r@wix.com"
+            ],
+            "phone": "893 683 356"
+        },
+        "languages": [
+            "French",
+            "Ukrainian",
+            "English"
+        ],
+        "studies": {
+            "semester": 1,
+            "field": "Business Administration",
+            "fulltime": "no",
+            "courses": [
+                {
+                    "name": "programming",
+                    "grades": [
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "name": "mathematics",
+                    "grades": [
+                        3,
+                        4,
+                        3,
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "name": "economics",
+                    "grades": [
+                        3,
+                        5,
+                        5,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "name": "statistics",
+                    "grades": [
+                        2,
+                        4,
+                        5,
+                        4
+                    ]
+                }
+            ]
+        }
+    }
+]
