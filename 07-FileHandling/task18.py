@@ -1,0 +1,8 @@
+file1 = open("MeatAndFish.txt", "r")
+text1 = file1.read()
+file1.close()
+file2 = open("GrainsAndBread.txt", "r")
+text2 = file2.read()
+file3 = open("shoppinglist.txt", "a")
+file3.write(text1)
+file3.write(text2)

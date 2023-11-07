@@ -1,0 +1,6 @@
+name = input("Enter your name:")
+age = input("Enter your age:")
+height = input("Enter your hight")
+age = int(age)
+height = int(height)
+print (f"My name is {name}, I\'m {age} years old, and my height is {height}")
