@@ -1,0 +1,13 @@
+max_number = (7,5,6,3,8,2)
+print(f'Max number of 7, 5, 6, 3, 8, 2 is: {max(max_number)}')
+
+a=str(bin(304))
+print(a)
+print(type(a))
+b = str(hex(304))
+print(b)
+print(type(b))
+c = int(ord('€'))
+print(c)
+print(type(c))
+print(abs(-17))
