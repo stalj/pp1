@@ -1,0 +1,22 @@
+[
+  {
+    "Product": "milk",
+    "Quantity": "8",
+    "Price": "4.25"
+  },
+  {
+    "Product": "cheese",
+    "Quantity": "5",
+    "Price": "17.90"
+  },
+  {
+    "Product": "bread",
+    "Quantity": "21",
+    "Price": "6.15"
+  },
+  {
+    "Product": "juice",
+    "Quantity": "12",
+    "Price": "5.90"
+  }
+]
