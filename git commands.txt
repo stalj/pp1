@@ -1,0 +1,5 @@
+git clone url_here.git
+git status
+git add *
+git commit -m "message in quotes here"
+git push
