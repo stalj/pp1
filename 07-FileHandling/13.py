@@ -1,4 +1,4 @@
-movie_titles = ["title one", "title two", "title three" "title four", "title five"]
+movie_titles = ["title one", "title two", "title three", "title four", "title five"]
 
 file = open("movies.txt", "w")
 
