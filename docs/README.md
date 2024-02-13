@@ -102,6 +102,8 @@
    - Open command prompt window
    - Enter command: `python --version` or `py --version`
 
+![Cli python version check](assets/01-cli-python.jpeg)
+
 **Install Visual Studio Code:**
 1. Install Microsoft Visual Studio Code (VSCode)
 2. Install VSCode extensions for Python (Microsoft)
@@ -118,6 +120,8 @@
 2. Check Git on your computer
    - Open command prompt window
    - Enter command: `git --version`
+
+![cli git version check](assets/cli-git.png)
 
 #### Course Materials
 
