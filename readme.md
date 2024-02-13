@@ -2,6 +2,8 @@
 
 Welcome to the online course on "Entry to Computer Programming"! This course is designed for beginners who are eager to dive into the exciting world of computer programming. Whether you're a complete novice or have dabbled in coding before, this course will provide you with the foundational knowledge and skills needed to embark on your programming journey.
 
+![programming expert](docs/assets/OIG3.jpeg)
+
 ## What to Expect
 
 Throughout this course, you will:
